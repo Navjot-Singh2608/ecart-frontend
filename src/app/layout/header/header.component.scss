@@ -1,0 +1,23 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.search-bar {
+  width: 50%;
+}
+.header {
+  background-color: #0a66c2;
+}
+
+.header-search-bar {
+  width: 45%;
+  height: 24px;
+  padding: 7px;
+  border-radius: 40px;
+}
+
+mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
